@@ -1,2 +1,2 @@
 # censusresponses
-Modeling census response rates
+Basic interpretable machine learn models to understand factors that influence census response rates
